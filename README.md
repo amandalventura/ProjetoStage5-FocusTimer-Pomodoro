@@ -8,7 +8,7 @@ São elas:
 - Conta também com música de fundo (e um botão onde o usuário pode deixá-la no mudo);
 ### Com esse projeto:
 - Conhecemos um pouco mais sobre Event-driven, programação imperativa e callbacks;
-- Avançammos na lógica com pequenos passos;
+- Avançamos na lógica com pequenos passos;
 - Princípios de clean code e programação declarativa;
 - Entendemos melhor os escopos;
 - Criamos objetos com padrão factory e injeção de dependências;
